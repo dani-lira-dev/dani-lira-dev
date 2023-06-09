@@ -34,8 +34,6 @@
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="spring" >
@@ -52,7 +50,7 @@
   <a href="https://www.linkedin.com/in/daniella-lira-mkt-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/RNHmA7R5" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
   <a href = "mailto:dev.danilira@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
-  <a href="https://api.whatsapp.com/send?phone=5547997257267" target="_blank"><img src="images/icons/whatsapp.svg" alt="whatsapp" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5547997257267" target="_blank"> <class="img-icon-a nofocus whatsapp-icon-web" alt="whatsapp"> < target="_blank"></a>
     
   ![Snake animation](https://github.com/Danilira/Danilira/blob/output/github-contribution-grid-snake.svg)
   
