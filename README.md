@@ -11,10 +11,10 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Software Developer no Senior Sistemas. </p>
+<p> - 👨‍💻 Software Developer na Senior Sistemas. </p>
 <p> - 👨‍🎓 Bacharel em Administração </p>
 <p> - 🤓 Estudante de Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular, AWS , Docker . </p>
+<p> - 🎯 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular. </p>
   
 </div>
 
