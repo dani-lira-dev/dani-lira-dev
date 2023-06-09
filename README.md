@@ -1,8 +1,8 @@
 
 <div>
   <a href="https://github.com/Danilira">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Danilira&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilira&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dani-lira-dev&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-lira-dev&&layout=compact&hide=shell&theme=jolly"/>
   
 </div>
  
