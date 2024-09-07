@@ -10,7 +10,7 @@
 
 ### Sobre mim
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
+<img align="right" width="200" height="200" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Software Developer na Senior Sistemas. </p>
 <p> - 👨‍🎓 Bacharel em Administração </p>
 <p> - 🤓 Estudante de Gestão de Projetos em TI </p>
