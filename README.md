@@ -49,7 +49,7 @@
   <a href="https://discord.gg/RNHmA7R5" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
   <a href = "mailto:dev.danilira@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
     
-  ![Snake animation](https://github.com/Danilira/Danilira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dani-lira-dev/Danilira/blob/output/github-contribution-grid-snake.svg)
   
 <p align="center"> 
 
