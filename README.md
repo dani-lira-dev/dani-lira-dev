@@ -48,14 +48,6 @@
   <a href="https://www.linkedin.com/in/daniella-lira-mkt-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:dev.danilira@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
     
-  ![Snake animation](https://github.com/dani-lira-dev/Danilira/blob/output/github-contribution-grid-snake.svg)
-  
+
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/dani-lira-dev/count.svg" />
- </p>
-
-</p>
- 
