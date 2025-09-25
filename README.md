@@ -13,8 +13,9 @@
 <img align="right" width="200" height="200" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Software Developer na Senior Sistemas. </p>
 <p> - 👨‍🎓 Bacharel em Administração </p>
-<p> - 🤓 Estudante de Gestão de Projetos em TI </p>
-<p> - 🎯 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular. </p>
+<p> - 👨‍🎓 MBA em Gestão de Projetos em TI </p>
+<p> - 🤓 Pós em Engenharia de Software </p>
+<p> - 🎯 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, Angular e Laravel </p>
   
 </div>
 
@@ -35,6 +36,8 @@
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" >
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://www.vectorlogo.zone/logos/angular/laravel-icon.svg" alt="laravel" >
    
 </p>
 
