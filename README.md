@@ -37,7 +37,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://www.vectorlogo.zone/logos/angular/laravel-icon.svg" alt="laravel" >
+    <img height="40" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" >
    
 </p>
 
