@@ -11,7 +11,7 @@
 ### Sobre mim
 <div style="display: inline_block"  >
 <img align="right" width="200" height="200" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Software Developer na Senior Sistemas. </p>
+<p> - 👨‍💻 Software Quality Analyst na Senior Sistemas. </p>
 <p> - 👨‍🎓 Bacharel em Administração </p>
 <p> - 👨‍🎓 MBA em Gestão de Projetos em TI </p>
 <p> - 🤓 Pós em Engenharia de Software </p>
