@@ -1,10 +1,7 @@
 
 <div>
   <a href="https://github.com/dani-lira-dev">
- 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-lira-dev&&layout=compact&hide=shell&theme=jolly"/>
-  
-</div>
+ </div>
  
 ## Olá, eu sou a Dani Lira! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
